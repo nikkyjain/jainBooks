@@ -1,0 +1,8 @@
+*.mp3
+*.MP3
+*.ini
+*.swp
+*/audio
+others/technical/web/projects/rfsoc/xml/
+others/technical/web/projects/rfsoc/lockFile
+*.log
